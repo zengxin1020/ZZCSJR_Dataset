@@ -1,7 +1,7 @@
 # ZZCSJR_Dataset
 
 # Overview
-[ZZCSJR dateset](https://github.com/zengxin1020/ZZCSJR) provides a large-scale, drone-based dataset over 1,000 images, with resolution of 1080 × 1920, containing ..... persons.
+[ZZCSJR dateset](https://github.com/zengxin1020/ZZCSJR) provides a large-scale, drone-based dataset about 1,278 images, with resolution of 1080 × 1920, containing 82,897 persons.
 
 ![fig1](https://github.com/zengxin1020/ZZCSJR_Dataset/blob/main/2730.jpg)<br>
 ![fig2](https://github.com/zengxin1020/ZZCSJR_Dataset/blob/main/3170.jpg)
